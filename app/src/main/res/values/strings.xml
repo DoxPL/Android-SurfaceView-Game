@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Projekt2018</string>
+    <string name="gameOver">Game Over!</string>
+    <string name="score">Score</string>
+</resources>
